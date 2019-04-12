@@ -1,0 +1,16 @@
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\bin\Release\stuckpixel.exe.config
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\bin\Release\stuckpixel.exe
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\bin\Release\stuckpixel.pdb
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\MainWindow.g.cs
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\App.g.cs
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel_MarkupCompile.cache
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel_MarkupCompile.lref
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\App.baml
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\MainWindow.baml
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.g.resources
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.Properties.Resources.resources
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.csproj.GenerateResource.cache
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.csproj.CoreCompileInputs.cache
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.exe
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.pdb
+C:\Users\fcmts\Source\Repos\stuckpixel\stuckpixel\obj\Release\stuckpixel.csprojAssemblyReference.cache
